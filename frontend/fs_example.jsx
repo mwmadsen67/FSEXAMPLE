@@ -7,5 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // const store = configureStore();
   // starting user auth now
 
+  // another comment
+
   ReactDOM.render(<h1>React is working</h1>, root);
 });
